@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd-numbers{
+    background-color: pink;
+    font-family: "Verdana","DejaVu Sans","sans-serif";
+}
+
+#bigblue{
+    color: blue;
+    font-size: 36px;
+}
+
+.medium,
+#grinch{
+    font-size: 24px;
+}
+
+#grinch{
+    background-color: greenyellow;
+    font-weight: bold;
+}
